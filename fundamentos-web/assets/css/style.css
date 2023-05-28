@@ -1,0 +1,185 @@
+/* estilos index.html */
+
+
+         .center {
+
+            text-align: center;
+
+
+         }
+
+         .container {
+
+            display: flex;
+            flex-flow: row;
+        font-size: 22px;
+        font-style: inherit ;
+        text-align: center;
+        align-items: center;
+        padding: 30px;
+            
+
+
+         }
+
+
+         .ft1 {
+
+            display: flex;
+            justify-content: center;
+            
+
+
+
+         }
+
+         .p1p2{
+
+            padding: 30px;
+            text-align: justify;
+
+
+         }
+
+
+         .ft2 {
+
+            display: flex;
+            justify-content: center; 
+
+
+         }
+
+
+         .vd1{
+
+            display: flex;
+            justify-content: center;
+
+
+
+         }
+
+         .vd2 {
+
+            display: flex;
+            justify-content: center;
+
+
+
+
+
+
+         }
+
+
+         .p2{
+
+            text-align: justify;
+   
+         font-size: 22px;
+         font-style: inherit;
+
+
+
+
+         }
+
+
+
+         .link li{
+
+         font-size: 22px;
+         font-style: inherit;
+         display: inline;
+         padding: 30px;
+
+
+
+         }
+
+         .link a {
+
+            text-decoration: none;
+            color: rgb(21, 4, 255);
+
+
+
+         }
+
+         .link a:hover{
+
+            color: red;
+
+         }
+
+         .wh{
+
+            width:550px ;
+            height: 450px;
+
+         }
+
+         .wh2{
+
+            width:650px ;
+            height:950px ;
+
+
+
+         }
+
+
+         .ftr {
+
+            text-align: center;
+            font-size: 18px;
+            
+
+
+
+         }
+
+         .tm{
+
+            width: 70px;
+            height: 70px;
+            padding: 20px;
+
+         }
+
+
+         .copy{
+
+            font-size: 20px;
+            color: rgb(0, 0, 0);
+            text-align: center;
+
+
+         }
+
+
+         .meme li{
+
+font-size: 22px;
+display: inline;
+font-style: inherit;
+padding: 30px; 
+
+
+         }
+
+
+
+
+/* estilos meme.html */
+
+
+
+
+
+
+
+
+
+/* estilos ria.html */

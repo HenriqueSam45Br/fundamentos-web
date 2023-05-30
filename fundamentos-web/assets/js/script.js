@@ -60,6 +60,20 @@ function mapaNormal() {
 
 
 }
+    
+    function validaEmail () {
+    let txtEmail = document.querySelector('#txtEmail')
+    if (email.value.indexOf('@') == -1 || email.value.indexOf('.') == -1){ 
+        txtEmail.innerHTML = 'E-mail inválido'
+        email.style.color = 'red'
+        email.style.border='3px solid red'
+    } else {
+        txtEmail.innerHTML = 'E-mail válido'
+        email.style.color = 'green'
+        email.style.border='3px solid green'
+        emailOk = true
+    }
+    }
 
 
 
